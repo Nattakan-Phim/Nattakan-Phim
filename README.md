@@ -61,7 +61,7 @@ while managing **servers, domains, and cloud infrastructure** for scalability an
 
 ### 📫 Connect With Me
 
-- 🌐 Portfolio: [https://nattakan.nrbcorporation.com](https://nattakan.nrbcorporation.com)
+- 🌐 Portfolio: [https://nattakan.nrbcorporation.com](https://nattakan.nrb-corporation.com)
 - 💼 LinkedIn: [linkedin.com/in/nattakanphimmarach](https://linkedin.com/in/nattakanphimmarach)
 - 🐦 Twitter (X): [@NPhimmarach](https://twitter.com/NPhimmarach)
 - 📧 Email: nattakan@nrbcorporation.com

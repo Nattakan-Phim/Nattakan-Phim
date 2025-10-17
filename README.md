@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Nattakan-Phim/Nattakan-Phim/main/banner.png" width="100%" alt="Radome Banner" />
-</p>
+</p> -->
 
 <h1 align="center">👋 Hi, I'm Radome (Nattakan Phim)</h1>
 <h3 align="center">Fullstack Developer | Cloud & Server Engineer | Domain Management</h3>

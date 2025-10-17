@@ -1,18 +1,31 @@
-<!-- Header -->
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nattakan-Phim/Nattakan-Phim/main/banner.png" width="100%" alt="Radome Banner" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Radome (Nattakan Phim)</h1>
 <h3 align="center">Fullstack Developer | Cloud & Server Engineer | Domain Management</h3>
 
 ---
 
 ### 🧠 About Me
-💻 Passionate about building **modern web applications** that integrate seamlessly from **frontend to backend**,  
-while managing **servers, domains, and cloud infrastructure** for scalability and reliability.
+💻 I'm passionate about building **modern web applications** that are scalable, secure, and easy to maintain.  
+I enjoy working across the full stack — from **frontend to backend**, **server management**, and **cloud infrastructure**.
 
-🎯 My interests include:
-- Fullstack Web Development (React, Next.js, Node.js, Express)
-- Cloud Infrastructure & DevOps (Docker, Nginx, Cloudflare, AWS)
-- Domain, SSL, and DNS Management
-- CI/CD Automation & Server Optimization
+🎯 Focus Areas:
+- Fullstack Web Development (React, Next.js, Node.js)
+- Cloud & Server Management (Docker, Nginx, AWS, Cloudflare)
+- Domain & SSL Configuration
+- CI/CD Automation & Deployment
+
+---
+
+### 👥 Team & Collaboration
+I’m a member of the **NRB-Corporation** development team —  
+a group of developers specializing in web applications, automation, and enterprise cloud systems.
+
+🔗 **Organization:** [NRB-Corporation](https://github.com/NRB-Corporation)  
+💼 **Main Projects:** Corporate Platform, Cloud Deployment System, Booking & API Services
 
 ---
 
@@ -40,7 +53,7 @@ while managing **servers, domains, and cloud infrastructure** for scalability an
 
 ---
 
-### 🧩 Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description | Stack |
 |----------|--------------|--------|
@@ -61,10 +74,11 @@ while managing **servers, domains, and cloud infrastructure** for scalability an
 
 ### 📫 Connect With Me
 
-- 🌐 Portfolio: [https://nattakan.nrb-corporation.com](https://nattakan.nrb-corporation.com)
+- 🌐 Website: [https://nattakan.nrbcorporation.com](https://nattakan.nrbcorporation.com)
+- 🧑‍💻 Organization: [NRB-Corporation](https://github.com/NRB-Corporation)
 - 💼 LinkedIn: [linkedin.com/in/nattakanphimmarach](https://linkedin.com/in/nattakanphimmarach)
-- 🐦 Twitter (X): [@NPhimmarach](https://twitter.com/NPhimmarach)
 - 📧 Email: nattakan@nrbcorporation.com
+- 🐦 Twitter: [@NPhimmarach](https://twitter.com/NPhimmarach)
 
 ---
 

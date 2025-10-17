@@ -1,28 +1,29 @@
 <!-- Header -->
-<h1 align="center">👋 สวัสดีครับ ผมชื่อ Nattakan Phimmarach</h1>
-<h3 align="center">Fullstack Developer | Cloud & Server Engineer | Domain Management Expert</h3>
+<h1 align="center">👋 Hi, I'm Radome (Nattakan Phim)</h1>
+<h3 align="center">Fullstack Developer | Cloud & Server Engineer | Domain Management</h3>
 
 ---
 
-### 💡 เกี่ยวกับผม
-ผมเป็นนักพัฒนาเว็บไซต์และแอปพลิเคชันที่ชื่นชอบการสร้างระบบที่ **เสถียร ปลอดภัย และขยายได้ในระดับองค์กร**  
-มีประสบการณ์ตั้งแต่ **Frontend, Backend, Database, Cloud Infrastructure, จนถึง Domain Management**
+### 🧠 About Me
+💻 Passionate about building **modern web applications** that integrate seamlessly from **frontend to backend**,  
+while managing **servers, domains, and cloud infrastructure** for scalability and reliability.
 
-- 🚀 เชี่ยวชาญ: React, Next.js, Node.js, Express, MySQL, PostgreSQL  
-- ☁️ Cloud: AWS, Cloudflare, Docker, Nginx, CI/CD  
-- 🌐 Domain & DNS Management: Cloudflare DNS, SSL, Reverse Proxy  
-- 🧩 สาย DevOps: Automation Deployment, Server Monitoring  
-- 🎯 เป้าหมาย: สร้างระบบที่มีคุณภาพสูงและใช้งานง่ายสำหรับทุกขนาดธุรกิจ
+🎯 My interests include:
+- Fullstack Web Development (React, Next.js, Node.js, Express)
+- Cloud Infrastructure & DevOps (Docker, Nginx, Cloudflare, AWS)
+- Domain, SSL, and DNS Management
+- CI/CD Automation & Server Optimization
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### ⚙️ Tech Stack
 
 #### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss)
 
 #### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js)
@@ -30,43 +31,44 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
 
-#### **DevOps & Cloud**
+#### **Server & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
-![CI/CD](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions)
 
 ---
 
-### 🌍 ตัวอย่างผลงาน
+### 🧩 Featured Projects
 
-| โปรเจ็กต์ | รายละเอียด | เทคโนโลยี |
-|------------|-------------|------------|
-| 🚗 **Travel Booking Form** | ระบบจองรถพร้อมจัดการข้อมูลผ่าน MySQL และ API | React, Node.js, Express, MySQL |
-| ☁️ **Cloud Deployment Automation** | ระบบ CI/CD สำหรับ deploy ผ่าน Docker + Cloudflare Tunnel | Node.js, GitHub Actions, Cloudflare |
-| 🏢 **NRB-Corporation Website** | เว็บไซต์องค์กรสไตล์มืออาชีพพร้อมระบบจัดการข้อมูล | Next.js, MUI, Cloudflare Pages |
+| Project | Description | Stack |
+|----------|--------------|--------|
+| 🚗 **NRB Travel Booking System** | Vehicle booking form system with address data & API integration | React, Node.js, Express, MySQL |
+| ☁️ **Cloud Deployment Workflow** | CI/CD pipeline for automated deploy with Cloudflare + Docker | GitHub Actions, Docker, Nginx |
+| 🏢 **NRB-Corporation Website** | Corporate website with professional UI and multi-language support | Next.js, MUI, Cloudflare Pages |
 
 ---
 
-### 📊 สถิติ GitHub
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nattakanphimmarach&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nattakanphimmarach&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nattakan-Phim&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nattakan-Phim&theme=tokyonight" height="150" />
 </p>
 
 ---
 
-### 📫 ติดต่อผมได้ที่
-- 🌐 Website: [https://nrb-corporation.pages.dev](https://nrb-corporation.pages.dev)
+### 📫 Connect With Me
+
+- 🌐 Portfolio: [https://nattakan.nrbcorporation.com](https://nattakan.nrbcorporation.com)
 - 💼 LinkedIn: [linkedin.com/in/nattakanphimmarach](https://linkedin.com/in/nattakanphimmarach)
-- 📧 Email: nattakan@example.com
-- ☁️ Cloudflare: [NRB Cloud Panel](https://dash.cloudflare.com)
+- 🐦 Twitter (X): [@NPhimmarach](https://twitter.com/NPhimmarach)
+- 📧 Email: nattakan@nrbcorporation.com
 
 ---
 
 <p align="center">
-  <i>“Building scalable systems with passion and precision.”</i><br/>
-  <b>#Fullstack #CloudEngineer #DevOps #ServerAdmin</b>
+  <i>"Building scalable systems with precision and creativity."</i><br/>
+  <b>#Fullstack #CloudEngineer #ServerManagement #DevOps</b>
 </p>

@@ -77,7 +77,7 @@ a group of developers specializing in web applications, automation, and enterpri
 
 ### 📫 Connect With Me
 
-- 🌐 Website: [https://nattakan.nrbcorporation.com](https://nattakan.nrbcorporation.com)
+- 🌐 Website: [https://nattakan.nrb-corporation.com](https://nattakan.nrb-corporation.com)
 - 🧑‍💻 Organization: [NRB-Corporation](https://github.com/NRB-Corporation)
 - 💼 LinkedIn: [linkedin.com/in/nattakanphimmarach](https://linkedin.com/in/nattakanphimmarach)
 - 📧 Email: nattakan@nrbcorporation.com

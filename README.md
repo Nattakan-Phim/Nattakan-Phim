@@ -4,7 +4,7 @@
 </p> -->
 
 <h1 align="center">👋 Hi, I'm Radome (Nattakan Phim)</h1>
-<h3 align="center">Fullstack Developer | Cloud & Server Engineer | Domain Management</h3>
+<h3 align="center">Fullstack Developer | Software Developer | Cloud & Server Engineer  </h3>
 
 ---
 

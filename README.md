@@ -44,6 +44,8 @@ a group of developers specializing in web applications, automation, and enterpri
 #### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Elysia](https://img.shields.io/badge/Elysia-8B5CF6?style=flat&logo=elysia&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
 

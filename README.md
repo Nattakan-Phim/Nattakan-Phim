@@ -70,7 +70,7 @@ a group of developers specializing in web applications, automation, and enterpri
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nattakan-Phim&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nattakan-Phim&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Nattakan-Phim&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">

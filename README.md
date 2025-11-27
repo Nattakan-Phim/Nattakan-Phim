@@ -37,6 +37,7 @@ a group of developers specializing in web applications, automation, and enterpri
 #### **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss)

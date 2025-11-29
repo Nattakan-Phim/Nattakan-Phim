@@ -72,12 +72,18 @@ a group of developers specializing in web applications, automation, and enterpri
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nattakan-Phim&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nattakan-Phim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nattakan-Phim&theme=tokyonight" alt="GitHub Profile Summary" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nattakan-Phim&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nattakan-Phim&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nattakan-Phim&theme=tokyonight" alt="Productive Time" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nattakan-Phim&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Nattakan-Phim&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nattakan-Phim&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="48%" />
 </p>
 
 ---

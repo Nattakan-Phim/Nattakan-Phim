@@ -82,8 +82,7 @@ a group of developers specializing in web applications, automation, and enterpri
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nattakan-Phim&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nattakan-Phim&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nattakan-Phim&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="98%" />
 </p>
 
 ---

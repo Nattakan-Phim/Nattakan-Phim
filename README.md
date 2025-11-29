@@ -93,7 +93,7 @@ a group of developers specializing in web applications, automation, and enterpri
 - 🧑‍💻 Organization: [NRB-Corporation](https://github.com/NRB-Corporation)
 - 💼 LinkedIn: [linkedin.com/in/nattakanphimmarach](https://linkedin.com/in/nattakan-phimmarach/)
 - 📧 Email: nattakan.phim@gmail.com
-- 🐦 Twitter: [@NPhimmarach](https://twitter.com/NPhimmarach)
+- 🐦 Twitter: [@Nattakan_Phim](https://x.com/Nattakan_Phim)
 
 ---
 

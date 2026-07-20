@@ -52,8 +52,8 @@ Part of the **NRB-Corporation** team, building web applications, automation pipe
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nattakan-Phim&show_icons=true&hide_border=true&theme=default&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nattakan-Phim&layout=compact&hide_border=true&theme=default" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nattakan-Phim&theme=github" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nattakan-Phim&theme=github" height="160" />
 </p>
 
 ---

@@ -49,12 +49,11 @@ Part of the **NRB-Corporation** team, building web applications, automation pipe
 
 ---
 
-### GitHub Stats
+### GitHub
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nattakan-Phim&theme=github" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nattakan-Phim&theme=github" height="160" />
-</p>
+![Followers](https://img.shields.io/github/followers/Nattakan-Phim?style=flat-square&label=Followers&color=333)
+![Stars](https://img.shields.io/github/stars/Nattakan-Phim?style=flat-square&label=Stars&color=333)
+![Profile Views](https://komarev.com/ghpvc/?username=Nattakan-Phim&style=flat-square&label=Views&color=333)
 
 ---
 

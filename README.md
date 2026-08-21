@@ -57,6 +57,12 @@ Part of the **NRB-Corporation** team, building web applications, automation pipe
 
 ---
 
+### Agent
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/Nattakan-Phim/svg?tokens=compact&cost=compact)](https://tokscale.ai/u/Nattakan-Phim)
+
+---
+
 ### Contact
 
 - 🌐 [nattakan.nrb-corporation.com](https://nattakan.nrb-corporation.com)

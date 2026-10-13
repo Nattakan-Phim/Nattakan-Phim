@@ -7,7 +7,7 @@ Building scalable, secure, and maintainable web systems.
 <p>
   <a href="https://nattakan.nrb-corporation.com">Portfolio</a> ·
   <a href="https://linkedin.com/in/nattakan-phimmarach/">LinkedIn</a> ·
-  <a href="https://x.com/Nattakan_Phim">Twitter</a> ·
+  <a href="https://x.com/nattakanphim">Twitter</a> ·
   <a href="mailto:nattakan.phim@gmail.com">Email</a>
 </p>
 

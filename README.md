@@ -41,7 +41,7 @@ I work across the stack — from modern web apps to the servers and pipelines th
 <table align="center">
   <tr>
     <td align="center" width="140"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,postgres&theme=dark" alt="Languages" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java,cs,&theme=dark" alt="Languages" /></td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>

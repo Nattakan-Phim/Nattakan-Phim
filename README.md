@@ -19,8 +19,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nattakan-Phim&style=flat-square&label=Profile+Views&color=2c5364" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Nattakan-Phim?style=flat-square&label=Followers&color=2c5364" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Nattakan-Phim?style=flat-square&label=Stars&color=2c5364" alt="Stars" />
   <img src="https://img.shields.io/badge/Based%20in-Thailand-2c5364?style=flat-square" alt="Thailand" />
 </p>
 
@@ -81,28 +79,28 @@ I work across the stack — from modern web apps to the servers and pipelines th
       <h3>NRB Travel Booking System</h3>
       <p>Vehicle booking form with address data & API integration.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
     </td>
     <td width="33%" valign="top">
       <h3>Cloud Deployment Workflow</h3>
       <p>CI/CD pipeline for automated deploys with Cloudflare + Docker.</p>
       <p>
-        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
       </p>
     </td>
     <td width="33%" valign="top">
       <h3>NRB-Corporation Website</h3>
       <p>Corporate site with professional UI and multi-language support.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="MUI" />
+        <img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white" alt="Cloudflare Pages" />
       </p>
     </td>
   </tr>
@@ -113,16 +111,7 @@ I work across the stack — from modern web apps to the servers and pipelines th
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nattakan-Phim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nattakan-Phim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nattakan-Phim&theme=tokyonight&hide_border=true&background=0f2027" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nattakan-Phim&theme=tokyo-night&hide_border=true&bg_color=0f2027&area=true" alt="Contribution Graph" width="100%" />
 </p>
 
 ---

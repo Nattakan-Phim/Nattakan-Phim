@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Nattakan-Phim">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+scalable%2C+secure+web+systems;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Bun;Docker+%C2%B7+Nginx+%C2%B7+AWS+%C2%B7+Cloudflare;CI%2FCD+automation+%26+deployment" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+scalable%2C+secure+web+systems;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Bun;Docker+%C2%B7+Nginx+%C2%B7+AWS+%C2%B7+GCP+%C2%B7+Cloudflare;CI%2FCD+automation+%26+deployment" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 I work across the stack — from modern web apps to the servers and pipelines that run them.
 
 - **Frontend & Backend** — React, Next.js, Node.js
-- **Cloud & Servers** — Docker, Nginx, AWS, Cloudflare
+- **Cloud & Servers** — Docker, Nginx, AWS, Google Cloud, Cloudflare
 - **Domain & SSL** configuration
 - **CI/CD** automation & deployment
 - Part of the **[NRB-Corporation](https://github.com/NRB-Corporation)** team, building web applications, automation pipelines, and enterprise cloud systems
@@ -41,7 +41,7 @@ I work across the stack — from modern web apps to the servers and pipelines th
 <table align="center">
   <tr>
     <td align="center" width="140"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java,cs,&theme=dark" alt="Languages" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,html,css,python,go,java,cs,&theme=dark" alt="Languages" /></td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
@@ -61,11 +61,15 @@ I work across the stack — from modern web apps to the servers and pipelines th
   </tr>
   <tr>
     <td align="center"><b>Cloud & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,nginx,aws,cloudflare,githubactions&theme=dark" alt="Cloud & DevOps" /></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,nginx,aws,gcp,cloudflare,githubactions&theme=dark" alt="Cloud & DevOps" /></td>
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Tools" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Tools" /><br/>
+      <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
+    </td>
   </tr>
 </table>
 

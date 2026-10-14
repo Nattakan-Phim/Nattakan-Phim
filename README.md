@@ -53,11 +53,15 @@ I work across the stack — from modern web apps to the servers and pipelines th
       <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,bun&theme=dark" alt="Backend" /><br/>
       <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
       <img src="https://img.shields.io/badge/Elysia-8B5CF6?style=flat-square&logo=elysia&logoColor=white" alt="Elysia" />
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" alt="Database" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" alt="Database" /><br/>
+      <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
+    </td>
   </tr>
   <tr>
     <td align="center"><b>Cloud & DevOps</b></td>
@@ -65,11 +69,7 @@ I work across the stack — from modern web apps to the servers and pipelines th
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Tools" /><br/>
-      <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
-      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
-    </td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Tools" /></td>
   </tr>
 </table>
 

@@ -45,7 +45,7 @@ I work across the stack — from modern web apps to the servers and pipelines th
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nextjs,react,materialui,tailwind&theme=dark" alt="Frontend" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,vue,materialui,tailwind&theme=dark" alt="Frontend" /></td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>

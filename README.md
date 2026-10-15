@@ -71,7 +71,7 @@ I work across the stack — from modern web apps to the servers and pipelines th
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Tools" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,postman,figma&theme=dark" alt="Tools" /></td>
   </tr>
 </table>
 
